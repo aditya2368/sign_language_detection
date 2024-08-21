@@ -13,10 +13,9 @@ Use this [dataset](https://www.kaggle.com/datasets/narasimhapujith/sign-language
 6. View results
 
 # Sample Output
-1. [output 1]()
-2. [output 2]()
-3. [output 3]()
-4. [output 4]()
+1. [output 1](https://github.com/aditya2368/sign_language_detection/blob/main/output_1.png)
+2. [output 2](https://github.com/aditya2368/sign_language_detection/blob/main/output_2.png)
+3. [output 3](https://github.com/aditya2368/sign_language_detection/blob/main/output_3.png)
 
 
 
