@@ -38,7 +38,7 @@ prediction_queue = deque(maxlen=5)
 # Function to check if current time is within operational hours
 def is_operational():
     current_time = datetime.now().time()
-    start_time = datetime.strptime("12:00:00", "%H:%M:%S").time()
+    start_time = datetime.strptime("18:00:00", "%H:%M:%S").time()
     end_time = datetime.strptime("22:00:00", "%H:%M:%S").time()
     return start_time <= current_time <= end_time
 
